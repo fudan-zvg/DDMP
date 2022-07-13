@@ -115,7 +115,3 @@ If you find this project useful in your research, please consider citing:
 }
 ```
 
-## Contact
-
-For questions regarding DDMP-3D, feel free to post here or directly contact the authors (wangli16@fudan.edu.cn).
-
